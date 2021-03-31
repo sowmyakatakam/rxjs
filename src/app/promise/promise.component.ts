@@ -71,5 +71,6 @@ export class PromiseComponent implements OnInit {
       console.log('ayoooo!!!   ',res)
       this.promiseVal = res;
     })
+  
   }
 }
